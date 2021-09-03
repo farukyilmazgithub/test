@@ -1,7 +1,6 @@
 package Generic;
 
 public class GenericClass<K,O,D> {
-   
     K object1;
     O object2;
     D object3;
