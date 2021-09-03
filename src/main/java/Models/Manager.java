@@ -22,4 +22,3 @@ public class Manager extends Employee{
         System.out.println("Number of Employees: "+  getNumber_of_employees());
     }
 }
-
